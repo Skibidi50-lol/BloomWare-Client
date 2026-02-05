@@ -11,7 +11,9 @@ Soon More
 
 <details> <summary> Get Client </summary>
   
-# Soon Son
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidi50-lol/BloomWare-Client/refs/heads/main/Client-Main/Client.lua"))()
+```
 
 </details>
 
