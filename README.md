@@ -12,7 +12,9 @@ BedWars
 </details>
 
 <details> <summary> Get Client </summary>
-#Soon Son
+  
+# Soon Son
+
 </details>
 
 ![Thread](https://github.com/Skibidi50-lol/BloomWare-Client/blob/main/Logo.jpg)
