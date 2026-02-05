@@ -9,6 +9,8 @@ Minecraft Alpha V1.2.6
 
 BedWars
 
+</details>
+
 <details> <summary> Get Client </summary>
 #Soon Son
   
