@@ -1,5 +1,5 @@
 # BloomWare-Client
-Script For Roblox PVP games (Minecraft Style)
+Script For Roblox PVP games (Minecraft Style) (Like Voxels)
 
 <details> <summary> Games </summary>
   
